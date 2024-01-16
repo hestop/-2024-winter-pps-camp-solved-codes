@@ -13,3 +13,7 @@ vector<int> solution(vector<int> arr, int divisor) {
     sort(answer.begin(), answer.end());
     return answer;
 }
+
+int main(){
+    return 0;
+}
