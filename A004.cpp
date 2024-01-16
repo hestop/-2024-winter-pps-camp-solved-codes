@@ -15,5 +15,6 @@ vector<int> solution(vector<int> arr, int divisor) {
 }
 
 int main(){
+    int i;
     return 0;
 }
