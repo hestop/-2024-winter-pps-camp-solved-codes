@@ -10,9 +10,6 @@ int main()
     string s;
     string nums[11] = { "zero" ,"one" ,"two" ,"three" ,"four" ,"five" ,"six" ,"seven" ,"eight" ,"nine" };
     vector<pair<string ,int>> ans;
-	//ios_base::sync_with_stdio(0);
-	//cin.tie(0);
-
 
 	cin >> M >> N;
 	
